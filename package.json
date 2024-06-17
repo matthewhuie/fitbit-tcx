@@ -1,0 +1,9 @@
+{
+  "name": "fitbit-tcx",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "repository": "github:matthewhuie/fitbit-tcx",
+  "license": "ISC"
+}
